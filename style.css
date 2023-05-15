@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aqua;
+    font-size: 70px;
+}
+
+button{
+    background-color: red;
+    color:aqua;
+    height:30px;
+    width: 100px;
+}
+
+canvas{
+    margin-top:250px;
+    margin-bottom:50px;
+    border:thick;
+    border-color:aquamarine;
+    border-radius: 30px;
+}
